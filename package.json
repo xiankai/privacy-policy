@@ -1,0 +1,13 @@
+{
+  "name": "privacy-policy",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.15.0",
+  "scripts": {
+    "generate": "node tools/generate.mjs",
+    "build": "python3 tools/build.py"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1"
+  }
+}
