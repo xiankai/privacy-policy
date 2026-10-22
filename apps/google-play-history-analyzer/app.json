@@ -3,17 +3,18 @@
   "listing": "Google Play History Analyzer (web)",
   "updated": "2026-10-22",
   "generator": {
-    "template": "Simple",
+    "template": "No Tracking",
     "appName": "Google Play History Analyzer",
     "contact": "privacy@bespectacledcyborg.com",
     "effectiveDate": "2026-10-22",
-    "pii": "Email address",
     "consentAge": 16,
     "appType": "Free",
     "location": false,
     "ai": false,
-    "dataDeletion": true,
-    "platforms": ["web"],
+    "dataDeletion": false,
+    "platforms": [
+      "web"
+    ],
     "ownerType": "Individual",
     "developerName": "xiankai",
     "thirdParties": []
