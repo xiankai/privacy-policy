@@ -1,0 +1,20 @@
+{
+  "title": "Remote Explorer",
+  "listing": "Remote Explorer (Android)",
+  "updated": "2026-10-22",
+  "generator": {
+    "template": "Simple",
+    "appName": "Remote Explorer",
+    "contact": "privacy@bespectacledcyborg.com",
+    "effectiveDate": "2026-10-17",
+    "consentAge": 18,
+    "appType": "Free",
+    "location": false,
+    "ai": false,
+    "dataDeletion": true,
+    "platforms": ["android"],
+    "ownerType": "Individual",
+    "developerName": "xiankai",
+    "thirdParties": ["Google Play Services", "Sentry"]
+  }
+}

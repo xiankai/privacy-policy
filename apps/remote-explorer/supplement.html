@@ -1,0 +1,21 @@
+<section class="supplement" id="remote-explorer-details">
+      <h2>Remote Explorer: what the app actually sends and keeps</h2>
+      <p>This section is written by the developer to list exactly what Remote Explorer does. It adds to the generated policy above, and where the two differ, this section is the precise description.</p>
+      <h3>Sent to Sentry (crash reporting and performance monitoring)</h3>
+      <ul>
+        <li>Crash reports: the stack trace, device model, Android version, app version, a random per-install ID, and, when opening a file fails, the share name and file path.</li>
+        <li>Performance traces and load-time metrics.</li>
+        <li>UI interaction breadcrumbs (taps and scrolls).</li>
+      </ul>
+      <h3>Not collected</h3>
+      <p>No account, no ads, no advertising ID, no location and no contacts. There is no analytics or advertising SDK; Sentry receives only the crash and performance data listed above.</p><!-- stack-reviewer-ignore: the generic generator text above is hosted unchanged by owner decision (#1); this supplement is the precise description and says so -->
+      <h3>Stays on your device</h3>
+      <p>SMB server addresses, usernames and passwords (encrypted with the Android Keystore), the files themselves, the thumbnail cache and the viewing history. None of these are sent to the developer.</p>
+      <h3>Permissions</h3>
+      <ul>
+        <li>Network access, to reach your own SMB server.</li>
+        <li>All files access, used only to read the folder you pick as a "Folder on this device" connection.</li>
+      </ul>
+      <h3>Children</h3>
+      <p>Remote Explorer is not directed at children. Its target audience is 18 and over.</p>
+    </section>

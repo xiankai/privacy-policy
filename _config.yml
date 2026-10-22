@@ -1,0 +1,7 @@
+exclude:
+  - apps
+  - tools
+  - package.json
+  - pnpm-lock.yaml
+  - README.md
+  - node_modules
