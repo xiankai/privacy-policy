@@ -1,0 +1,20 @@
+{
+  "title": "Genshin Prefarm",
+  "listing": "Genshin Prefarm (web)",
+  "updated": "2026-10-22",
+  "generator": {
+    "template": "No Tracking",
+    "appName": "Genshin Prefarm",
+    "contact": "privacy@bespectacledcyborg.com",
+    "effectiveDate": "2026-10-22",
+    "consentAge": 16,
+    "appType": "Free",
+    "location": false,
+    "ai": false,
+    "dataDeletion": false,
+    "platforms": ["web"],
+    "ownerType": "Individual",
+    "developerName": "xiankai",
+    "thirdParties": []
+  }
+}
